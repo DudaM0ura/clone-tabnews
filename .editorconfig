@@ -1,0 +1,7 @@
+root = true
+
+# O [*] especifica quais arquivos deverão obedecer essas regras, * = todos |
+# Mas pode ser especificado por ex.: .js, .php, .css ...
+[*] 
+indent_style = space
+indent_size = 2
